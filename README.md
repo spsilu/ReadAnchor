@@ -1,50 +1,57 @@
 <div align="center">
-  <img width="1200" alt="App Screenshot" src="./screenshot.png" />
+  <img width="1200" alt="Long Article Reading Assistant Screenshot" src="./screenshot.png" />
 </div>
 
 # Long Article Reading Assistant
 
-A lightweight tool designed for reading long articles more efficiently. It helps users mark important content, keep track of key sections, and quickly jump to specific positions in the article.
+A Chrome extension designed to make long-form reading easier, faster, and more organized.
+
+It helps users mark important content while reading long articles and quickly jump back to specific positions without endless scrolling.
 
 ## Overview
 
-Long Article Reading Assistant is built for users who frequently read lengthy documents, reports, blogs, research articles, or online essays. Instead of scrolling endlessly and losing context, users can highlight important parts and navigate directly to the sections they care about.
+Long Article Reading Assistant is built for people who often read lengthy web pages, articles, blogs, documentation, reports, or research materials in the browser.
+
+When reading long content, it is easy to lose track of important sections or waste time scrolling back and forth. This extension improves the reading experience by allowing users to mark key content and navigate directly to saved positions.
 
 ## Key Features
 
-### Mark Important Content
+### Highlight Important Content
 
-Easily mark important paragraphs, sentences, or sections while reading. This helps users remember key ideas and quickly review meaningful content later.
+Mark important paragraphs or sections while reading, so you can easily find and review them later.
 
-### Quick Navigation
+### Quick Jump Navigation
 
-Jump to a specific position in a long article without manually scrolling. This is especially useful when working with long-form content, research materials, or detailed reports.
+Quickly jump to a specific marked position in a long article without manually scrolling through the page.
 
-### Better Reading Flow
+### Better Long-Form Reading Experience
 
-The tool improves the reading experience by helping users stay focused, organize information, and move through long content more efficiently.
+Stay focused, keep track of key information, and move through long articles more efficiently.
+
+### Works Directly in Chrome
+
+Use the extension directly inside your browser while reading online content.
 
 ## Use Cases
 
-- Reading long articles or blog posts
-- Reviewing research papers or reports
+- Reading long articles and essays
 - Studying technical documentation
-- Marking important content for later review
-- Quickly navigating to specific sections in lengthy text
+- Reviewing research papers or reports
+- Saving important parts of online content
+- Quickly returning to specific sections on a page
+- Improving productivity when reading long-form web pages
 
-## Why This Tool
+## Installation
 
-Long articles often contain valuable information, but it can be difficult to keep track of important sections. This tool makes long-form reading easier by combining content marking and fast navigation in one simple experience.
+This project is a Chrome extension. To install it locally:
 
-## Screenshot
-
-<div align="center">
-  <img width="1200" alt="Long Article Reading Assistant Screenshot" src="./screenshot.png" />
-</div>
-
-## Getting Started
-
-Clone the repository:
+1. Download or clone this repository.
 
 ```bash
 git clone https://github.com/spsilu/Page-Anchor-Extension
+2. Open Chrome and go to:
+chrome://extensions/
+3.Enable Developer mode in the top-right corner.
+4.Click Load unpacked.
+5.Select the project folder.
+6.The extension will be installed in Chrome and ready to use.
